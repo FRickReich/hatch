@@ -1,7 +1,11 @@
 # Hatch
 
-**VERSION 0.1.0**
+*Version 0.1.0*
 
-Development repository
+---
 
-***
+A Modular Dashboard Concept
+
+
+## Concept
+
